@@ -1,0 +1,173 @@
+body{
+  margin: 0;
+}
+.blog_page{
+  font-family: 'Fredoka', sans-serif;
+  color: #FF1818;
+  font-size: 90px;
+  margin-top: 0;
+  padding-right: 20px;
+  font-weight: bolder;
+  position: absolute;
+  top: -13px;
+  left: 0;
+}
+.myself{
+  position: absolute;
+  top: 80px;
+  right: 10px;;
+  font-family: 'Hubballi', cursive;
+  color: black;
+  margin-top: 0;
+  font-size: 70px;
+}
+.myself:hover{
+  color: #FF1818;
+}
+.contact{
+  position: absolute;
+  top: 80px;
+  right: 250px;;
+  font-family: 'Hubballi', cursive;
+  color: black;
+  margin-top: 0;
+  font-size: 70px;
+}
+.contact:hover{
+  color: #FF1818;
+}
+.top{
+  height: 150px;
+  padding-top: 0;
+  background-color: #DFF6FF;
+}
+hr{
+  border-style:none ;
+  border-top-style: solid;
+  color: black;
+  width: 100%;
+  border-width: 10px;
+  margin-top: 0;
+  border-left: 0;
+}
+.container_1{
+  background-color: #FFB72B;
+  position: relative;
+  top: -10px;
+  border: 0;
+  height: 2000px;
+}
+.what{
+  position: relative;
+  top: 10px;
+  margin-top: 0;
+  height: 230px;
+  width: 48%;
+  text-align: center;
+  background-color: #203239;
+  padding-top:5px;
+}
+.why{
+  position: absolute;
+  top: 10px;;
+  right: 0;
+  margin-left: 10000px;;
+  height: 230px;
+  width: 48%;
+  text-align: center;
+  background-color: #203239;
+  padding-top:5px;
+}
+.hello{
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 20px;
+  padding-top: 0;
+}
+.list{
+  text-align: center;
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 20px;
+  padding-top: 0;
+}
+.blogs{
+  font-family: 'Hubballi', cursive;
+  color: black;
+  font-size: 40px;
+  text-align: center;
+}
+.head{
+  font-family: 'Hubballi', cursive;
+  color: black;
+  font-size: 50px;
+  text-decoration: none;
+}
+.head:hover{
+  color: #FF1818;
+  text-decoration: none;
+}
+.image{
+  position: relative;
+  bottom: 10px;
+}
+.author{
+  font-family: 'Hubballi', cursive;
+  color: black;
+  font-size: 50px;
+  text-decoration: none;
+}
+.card_1{
+  border: solid;
+  width: 45%;
+  position: absolute;
+  left: 20px;
+  top: 350px;
+  background-color: #FFEDDB;
+  text-align: center;
+}
+.card_2{
+  border: solid;
+  width: 45%;
+  position: absolute;
+  right: 20px;
+  top: 350px;
+  background-color: #FFEDDB;
+  text-align: center;
+}
+.card_3{
+  border: solid;
+  width: 45%;
+  position: absolute;
+  left: 20px;
+  top: 850px;
+  background-color: #FFEDDB;
+  text-align: center;
+}
+.card_4{
+  border: solid;
+  width: 45%;
+  position: absolute;
+  right: 20px;
+  top: 850px;
+  background-color: #FFEDDB;
+  text-align: center;
+}
+.card_5{
+  border: solid;
+  width: 45%;
+  position: absolute;
+  left: 20px;
+  top: 1350px;
+  background-color: #FFEDDB;
+  text-align: center;
+}
+.card_6{
+  border: solid;
+  width: 45%;
+  position: absolute;
+  right: 20px;
+  top: 1350px;
+  background-color: #FFEDDB;
+  text-align: center;
+}
